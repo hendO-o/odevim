@@ -1,0 +1,62 @@
+*{
+padding:0 ;
+margin:0;
+}
+
+
+.title{background-color: orangered; padding-left:100px ; color:rgb(42, 46, 53)}
+.blak li :hover{color:black;}
+.blak{padding-left:180px ; background-color:orangered ;}
+.blak li a {  font-size: 30px; text-decoration: none; color: white; }
+.blak li { padding:80px ;  display:inline;}
+.blak li  :hover {background-color: black;
+color: orangered;}
+
+
+
+ .bas {font-size: 20px; padding-left: 10px;
+      
+  width: 80%; height: 40px;
+
+ color: orangered);
+
+}
+.bas {  
+   display:inline-block;}
+
+.foto {padding-left: 700px;}
+.orta { color:rgb(0, 0, 0); ;height:200px ;background-color:firebrick;
+           
+  ; background:linear-gradient(rgba(0,0,0,0.5), rgba(255,255,255,0.2)),
+;
+position: relative;
+}
+
+.orta h1 { position: absolute;
+   left: 150px;
+   font-size:20px ; }
+
+
+.bas{position: relative;
+
+}
+.orta a {position: absolute ;
+
+   color: floralwhite;
+right:0;
+bottom: 0;
+}
+
+
+
+
+.foto img{
+ position: absolute;
+
+opacity: 50%;
+}
+
+.foto img:hover  {
+
+   opacity:100% ;
+}
